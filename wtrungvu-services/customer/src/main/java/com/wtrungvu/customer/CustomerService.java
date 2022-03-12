@@ -2,16 +2,17 @@ package com.wtrungvu.customer;
 
 import com.wtrungvu.clients.fraud.FraudCheckResponse;
 import com.wtrungvu.clients.fraud.FraudClient;
+import com.wtrungvu.clients.notification.NotificationClient;
+import com.wtrungvu.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 @Service
 @AllArgsConstructor
 public class CustomerService {
 
     private final CustomerRepository customerRepository;
-    private final RestTemplate restTemplate;
+    private final NotificationClient notificationClient;
     private final FraudClient fraudClient;
 
     public void registerCustomer(CustomerRegistrationRequest request) {
@@ -34,5 +35,14 @@ public class CustomerService {
         }
 
         // todo: send notification
+        // todo: make it async. i.e add to queue
+        notificationClient.sendNotification(
+                new NotificationRequest(
+                        customer.getId(),
+                        customer.getEmail(),
+                        String.format("Hi %s, welcome to Wtrungvu...",
+                                customer.getFirstName())
+                )
+        );
     }
 }

@@ -27,15 +27,11 @@ j
 v
 Fnotification/src/main/java/com/wtrungvu/notification/Notification.java,b/1/b114be6e8c3200d6cbdd3aad66e87321f5ccceed
 €
-Pnotification/src/main/java/com/wtrungvu/notification/NotificationController.java,5/7/570dcdd00cd814543080d17396e2c02c7e3cd2fa
-€
 Pnotification/src/main/java/com/wtrungvu/notification/NotificationRepository.java,0/8/089bb918117cf3f334b0f726237cadf9874a8797
 
 Oclients/src/main/java/com/wtrungvu/clients/notification/NotificationClient.java,b/9/b968a6a24a196cfa4bcbf3119b5c1039aecae0e6
 €
 Pclients/src/main/java/com/wtrungvu/clients/notification/NotificationRequest.java,f/b/fbb1fa49d1d6bce71b53de217f2f2ba8e331f3f6
-}
-Mnotification/src/main/java/com/wtrungvu/notification/NotificationService.java,1/9/19f767a73c752abbaf7aae7a6894b95385eda76e
 ‚
 Reureka-server/src/main/java/com/wtrungvu/eurekaserver/EurekaServerApplication.java,d/e/def56b61c916a6c04269a6cc3c37855e8cfe6fdc
 l

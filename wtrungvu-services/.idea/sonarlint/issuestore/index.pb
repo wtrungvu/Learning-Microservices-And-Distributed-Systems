@@ -36,12 +36,8 @@ Oclients/src/main/java/com/wtrungvu/clients/notification/NotificationClient.java
 Pclients/src/main/java/com/wtrungvu/clients/notification/NotificationRequest.java,f/b/fbb1fa49d1d6bce71b53de217f2f2ba8e331f3f6
 }
 Mnotification/src/main/java/com/wtrungvu/notification/NotificationService.java,1/9/19f767a73c752abbaf7aae7a6894b95385eda76e
-q
-Acustomer/src/main/java/com/wtrungvu/customer/CustomerService.java,1/4/1422e6ac5bb2ea57629fe98d22bb3745458f3074
 ‚
 Reureka-server/src/main/java/com/wtrungvu/eurekaserver/EurekaServerApplication.java,d/e/def56b61c916a6c04269a6cc3c37855e8cfe6fdc
-u
-Ecustomer/src/main/java/com/wtrungvu/customer/CustomerApplication.java,f/2/f2fe65f648c3ba0bd03dfbb763778f20eb49cd6b
 l
 <fraud/src/main/java/com/wtrungvu/fraud/FraudApplication.java,7/f/7fd5db3532776aeb17481f70d00c95f526780453
 E

@@ -44,8 +44,6 @@ u
 Ecustomer/src/main/java/com/wtrungvu/customer/CustomerApplication.java,f/2/f2fe65f648c3ba0bd03dfbb763778f20eb49cd6b
 l
 <fraud/src/main/java/com/wtrungvu/fraud/FraudApplication.java,7/f/7fd5db3532776aeb17481f70d00c95f526780453
-
-Qnotification/src/main/java/com/wtrungvu/notification/NotificationApplication.java,6/f/6ff98011b98fdbb7890a384748192c98cf26698d
 E
 eureka-server/pom.xml,b/3/b39ae52d769ea03b699b5602439afd875433c8a7
 =

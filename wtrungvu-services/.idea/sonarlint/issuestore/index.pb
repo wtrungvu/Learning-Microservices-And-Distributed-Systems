@@ -36,8 +36,6 @@ Pclients/src/main/java/com/wtrungvu/clients/notification/NotificationRequest.jav
 Reureka-server/src/main/java/com/wtrungvu/eurekaserver/EurekaServerApplication.java,d/e/def56b61c916a6c04269a6cc3c37855e8cfe6fdc
 l
 <fraud/src/main/java/com/wtrungvu/fraud/FraudApplication.java,7/f/7fd5db3532776aeb17481f70d00c95f526780453
-=
-apigw/pom.xml,7/6/769e90cc07d0503e53ff9da3a1e936a2b49abb7c
 l
 <apigw/src/main/java/com/wtrungvu/apigw/ApiGWApplication.java,7/8/785ad5db4bba698503d49618e8a918edf1778140
 B
@@ -70,3 +68,5 @@ h
 8amqp/src/main/java/com/wtrungvu/amqp/RabbitMQConfig.java,4/a/4ab8db9b128ded3260dea9dedaa35e16a336d619
 <
 amqp/pom.xml,3/9/39d5bf97f55ed62f85d09f9444dcd78c9eb5188e
+@
+customer/pom.xml,f/0/f04db7a99ce1257e856612bd563cd946a39fac96

@@ -38,8 +38,6 @@ l
 <fraud/src/main/java/com/wtrungvu/fraud/FraudApplication.java,7/f/7fd5db3532776aeb17481f70d00c95f526780453
 l
 <apigw/src/main/java/com/wtrungvu/apigw/ApiGWApplication.java,7/8/785ad5db4bba698503d49618e8a918edf1778140
-B
-docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
 
 Qnotification/src/main/java/com/wtrungvu/notification/NotificationApplication.java,6/f/6ff98011b98fdbb7890a384748192c98cf26698d
 u

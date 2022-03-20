@@ -1,7 +1,4 @@
 
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 p
 @customer/src/main/java/com/wtrungvu/customer/CustomerConfig.java,1/8/18ae71fd5bd17febf43b65c70e34a186eb2e35ec
 x
@@ -32,8 +29,6 @@ Pnotification/src/main/java/com/wtrungvu/notification/NotificationRepository.jav
 Oclients/src/main/java/com/wtrungvu/clients/notification/NotificationClient.java,b/9/b968a6a24a196cfa4bcbf3119b5c1039aecae0e6
 €
 Pclients/src/main/java/com/wtrungvu/clients/notification/NotificationRequest.java,f/b/fbb1fa49d1d6bce71b53de217f2f2ba8e331f3f6
-‚
-Reureka-server/src/main/java/com/wtrungvu/eurekaserver/EurekaServerApplication.java,d/e/def56b61c916a6c04269a6cc3c37855e8cfe6fdc
 l
 <fraud/src/main/java/com/wtrungvu/fraud/FraudApplication.java,7/f/7fd5db3532776aeb17481f70d00c95f526780453
 l

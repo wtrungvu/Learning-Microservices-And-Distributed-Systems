@@ -54,12 +54,6 @@ Mnotification/src/main/java/com/wtrungvu/notification/NotificationService.java,
 Wnotification/src/main/java/com/wtrungvu/notification/rabbitmq/NotificationConsumer.java,9/8/98832111ae34e179335c06e44a5b1ca47729e2d9
 q
 Acustomer/src/main/java/com/wtrungvu/customer/CustomerService.java,1/4/1422e6ac5bb2ea57629fe98d22bb3745458f3074
-E
-eureka-server/pom.xml,b/3/b39ae52d769ea03b699b5602439afd875433c8a7
-=
-fraud/pom.xml,d/0/d024669e89b7b66ac8ba07340a73edc6aa228259
-D
-notification/pom.xml,0/d/0d8056be62f90a93d2bc0b4ea5db519b06028b1e
 ?
 clients/pom.xml,e/8/e897e41994586ab73af075bc072526099d5eec43
 q
@@ -68,5 +62,3 @@ h
 8amqp/src/main/java/com/wtrungvu/amqp/RabbitMQConfig.java,4/a/4ab8db9b128ded3260dea9dedaa35e16a336d619
 <
 amqp/pom.xml,3/9/39d5bf97f55ed62f85d09f9444dcd78c9eb5188e
-@
-customer/pom.xml,f/0/f04db7a99ce1257e856612bd563cd946a39fac96

@@ -62,8 +62,6 @@ Reureka-server/src/main/java/com/wtrungvu/eurekaserver/EurekaServerApplication.j
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-B
-docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
 [
 +k8s/minikube/bootstrap/postgres/service.yml,6/1/61fb9f2c4d035b46807d37bf3fda3a2a5dec6f06
 _

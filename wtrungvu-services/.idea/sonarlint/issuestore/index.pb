@@ -3,8 +3,6 @@ p
 @customer/src/main/java/com/wtrungvu/customer/CustomerConfig.java,1/8/18ae71fd5bd17febf43b65c70e34a186eb2e35ec
 x
 Hclients/src/main/java/com/wtrungvu/clients/fraud/FraudCheckResponse.java,1/8/18a972eda2b84395e30348b0cf2b01e8e0dcf40f
-q
-Aclients/src/main/java/com/wtrungvu/clients/fraud/FraudClient.java,1/9/19602f27e3738b68c2f2ebcf8a592891d4364acf
 t
 Dcustomer/src/main/java/com/wtrungvu/customer/CustomerController.java,e/d/eddb1162fa72761b71ad202db24c5fa9f9b44c3b
 }
@@ -25,18 +23,10 @@ v
 Fnotification/src/main/java/com/wtrungvu/notification/Notification.java,b/1/b114be6e8c3200d6cbdd3aad66e87321f5ccceed
 €
 Pnotification/src/main/java/com/wtrungvu/notification/NotificationRepository.java,0/8/089bb918117cf3f334b0f726237cadf9874a8797
-
-Oclients/src/main/java/com/wtrungvu/clients/notification/NotificationClient.java,b/9/b968a6a24a196cfa4bcbf3119b5c1039aecae0e6
 €
 Pclients/src/main/java/com/wtrungvu/clients/notification/NotificationRequest.java,f/b/fbb1fa49d1d6bce71b53de217f2f2ba8e331f3f6
 l
-<fraud/src/main/java/com/wtrungvu/fraud/FraudApplication.java,7/f/7fd5db3532776aeb17481f70d00c95f526780453
-l
 <apigw/src/main/java/com/wtrungvu/apigw/ApiGWApplication.java,7/8/785ad5db4bba698503d49618e8a918edf1778140
-
-Qnotification/src/main/java/com/wtrungvu/notification/NotificationApplication.java,6/f/6ff98011b98fdbb7890a384748192c98cf26698d
-u
-Ecustomer/src/main/java/com/wtrungvu/customer/CustomerApplication.java,f/2/f2fe65f648c3ba0bd03dfbb763778f20eb49cd6b
 €
 Pnotification/src/main/java/com/wtrungvu/notification/NotificationController.java,5/7/570dcdd00cd814543080d17396e2c02c7e3cd2fa
 |
